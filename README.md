@@ -168,6 +168,11 @@ Road is painted first at low opacity so it reads as a background region. All obj
 Evaluation is run via `evaluate.py`.
 
 ---
+Sample Outputs
+The images below show real outputs produced by our pipeline on nuScenes front-camera frames. Each result displays the original image alongside the segmentation overlay — with road marked as a light green wash and all detected objects (vehicles, pedestrians, barriers, cones) shown as bold colored rectangular blocks on top.
+📂 https://drive.google.com/drive/folders/18e0ZAaIGKiT_lBPS1lcEVlRQ7yXdo0OB?usp=drive_link
+
+If the output images in outputs/predictions/ do not open locally, use the Google Drive link above as an alternative to view the same results.
 
 ## Project Structure
 
