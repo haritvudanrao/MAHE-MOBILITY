@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+
+# ignore dataset
+data/
+
+# heavy files
+*.pth
+*.zip
+*.tgz
+*.tar.gz
