@@ -45,7 +45,8 @@ Road polygon data from the nuScenes Map Expansion API is projected from world co
 
 The nuScenes v1.0-mini dataset can be downloaded from the link below. After downloading, extract it and place it inside the `data/` folder before running the code.
 
-📁 **[Download nuScenes v1.0-mini from Google Drive](https://drive.google.com/your-link-here)**
+📁 **[Download nuScenes v1.0-mini from Google Drive](https://drive.google.com/drive/folders/1Ax9EsUOMiF718hgaH1PD3dpdeWR-gnuY?usp=drive_link)**
+
 
 ---
 
